@@ -1,6 +1,7 @@
 # 🌸 Iris Dataset - Exploratory Data Analysis
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/your-repo/blob/main/iris_eda.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sarthakb1702/Colab-Conquer-Your-First-Data-Notebook/blob/main/iris_eda.ipynb)
+
 
 ## 📌 Project Overview
 
